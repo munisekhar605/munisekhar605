@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQH1Cft24h6H4A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716294379832?e=1730937600&v=beta&t=ZDx8LNxm4yIWWJjdDpk5LKaSGvjbuPjOwUsRuEmPcgI)](https://rishavchanda.io)
+[![MasterHead](https://res.cloudinary.com/muni/image/upload/v1725205286/Blue_Modern_Marketing_Manager_LinkedIn_Banner_n2vv3u.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Munisekhar Udavalapati</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
