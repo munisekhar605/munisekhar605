@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Munisekhar Udavalapati</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img src="https://img.freepik.com/free-vector/young-programmer-working-laptop-computer-cartoon-character_24797-2123.jpg?t=st=1725199914~exp=1725203514~hmac=6932e1348a43f51160e1729cfe0b2da26b8467c68704cbfb2a12733ab3cd293b&w=740">
+<img src="![image](https://github.com/user-attachments/assets/96d7affa-b847-447f-900e-60799dd9ec8b)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sekhar-indian&label=Profile%20views&color=0e75b6&style=flat" alt="sekhar-indian" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sekhar-indian" alt="sekhar-indian" /></a> </p>
