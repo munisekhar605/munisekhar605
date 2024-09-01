@@ -1,6 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)](https://rishavchanda.io
-)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQH1Cft24h6H4A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716294379832?e=1730937600&v=beta&t=ZDx8LNxm4yIWWJjdDpk5LKaSGvjbuPjOwUsRuEmPcgI)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Munisekhar Udavalapati</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img src="https://img.freepik.com/free-vector/young-programmer-working-laptop-computer-cartoon-character_24797-2123.jpg?t=st=1725199914~exp=1725203514~hmac=6932e1348a43f51160e1729cfe0b2da26b8467c68704cbfb2a12733ab3cd293b&w=740">
